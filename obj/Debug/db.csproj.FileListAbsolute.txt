@@ -1,0 +1,13 @@
+D:\myPROJECTS\+MURAT\demo\db\bin\Debug\Database.mdf
+D:\myPROJECTS\+MURAT\demo\db\bin\Debug\Database_log.ldf
+D:\myPROJECTS\+MURAT\demo\db\bin\Debug\db.exe.config
+D:\myPROJECTS\+MURAT\demo\db\bin\Debug\db.exe
+D:\myPROJECTS\+MURAT\demo\db\bin\Debug\db.pdb
+D:\myPROJECTS\+MURAT\demo\db\obj\Debug\db.csprojAssemblyReference.cache
+D:\myPROJECTS\+MURAT\demo\db\obj\Debug\db.Form1.resources
+D:\myPROJECTS\+MURAT\demo\db\obj\Debug\db.Properties.Resources.resources
+D:\myPROJECTS\+MURAT\demo\db\obj\Debug\db.csproj.GenerateResource.cache
+D:\myPROJECTS\+MURAT\demo\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+D:\myPROJECTS\+MURAT\demo\db\obj\Debug\db.exe
+D:\myPROJECTS\+MURAT\demo\db\obj\Debug\db.pdb
+D:\myPROJECTS\+MURAT\demo\db\obj\Debug\db.csproj.ResolveComReference.cache
